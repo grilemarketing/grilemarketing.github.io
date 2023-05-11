@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Multiple-Choice Quiz</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+      }
+      #quiz {
+        max-width: 600px;
+        margin: 0 auto;
+        padding: 20px;
+        border: 1px solid #ccc;
+      }
+      .question {
+        font-weight: bold;
+        margin-bottom: 10px;
+      }
+      .answer {
+        margin-bottom: 25px;
+      }
+      .submit {
+        margin-top: 20px;
+      }
+      .correct {
+        color: black
+      }
+      label.correct {
+        border: 2px solid green;
+        box-shadow: 0 0 4px 2px green;
+    }
+    </style>
+  </head>
+  <body>
+    <div id="quiz">
+      <button class="show-answers">Intrebari si raspunsuri</button>
+      <h1>Teste Grila - Marketing</h1>
+      <form>
+        <div id="questions"></div>
+        <button type="button" class="submit">Submit</button>
+      </form>
+      <div id="results" style="display:none">
+        <h2>Rezultat</h2>
+        <p>Raspunsuri corecte: <span id="correct"></span></p>
+        <p>Raspunsuri gresite: <span id="incorrect"></span></p>
+      </div>
+    </div>
+    <script src="quiz.js"></script>
+  </body>
+</html>
