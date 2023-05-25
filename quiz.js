@@ -1612,7 +1612,7 @@ const questions = [
     ],
   },
   {
-    question: "200. Question?",
+    question: "Strategia specialistului, conform clasificarii strategiilor concurntiale realizata de Ph. Kotler, se refera la: (I 200)",
     answers: [
       { text: "a) mentinerea pozitiei actuale prin cresterea pietei totale (identificarea de noi utilizatori, noi utilizari si cresterea frecventei utilizarii produsului respectiv) si prin apararea pozitiei detinute pe piata (in principal prin inovare continua si diversificare)", correct: false },
       { text: "b) faptul ca, fiind o strategie ofensiva, se doreste cresterea cotei de piata in special printr-un razboi al preturilor", correct: false },
