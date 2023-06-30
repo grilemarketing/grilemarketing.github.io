@@ -4735,7 +4735,7 @@ const questions = [
     ],
   },
   {
-    question: "Prntre avantajele sondajului regasim: (I 547)",
+    question: "Printre avantajele sondajului regasim: (I 547)",
     answers: [
       { text: "a) flexibilitatea comunicarii verbale si scrise cu respondentii", correct: true },
       { text: "b) obtinerea informatiilor 'sensibile' de la respondenti", correct: false },
