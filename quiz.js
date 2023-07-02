@@ -2417,8 +2417,8 @@ const questions = [
     answers: [
       { text: "a) vand produse si servicii pe piata organizationala", correct: false },
       { text: "b) acopera o mare varietate de atributii", correct: false },
-      { text: "c) contribuie la cresterea cifrei de afaceri, isi asuma rolul de consultant in procesul vanzarii si participa la activitatea promotionala a firmei", correct: false },
-      { text: "d) nici o varianta nu este corecta", correct: true },
+      { text: "c) contribuie la cresterea cifrei de afaceri, isi asuma rolul de consultant in procesul vanzarii si participa la activitatea promotionala a firmei", correct: true },
+      { text: "d) nici o varianta nu este corecta", correct: false },
     ],
   },
   {
@@ -2948,8 +2948,8 @@ const questions = [
     answers: [
       { text: "a) segmentare geografica", correct: false },
       { text: "b) segmentare demografica", correct: false },
-      { text: "c) segmentare in functie de cifra de afaceri", correct: false },
-      { text: "d) segmentare comportamentala", correct: true },
+      { text: "c) segmentare in functie de cifra de afaceri", correct: true },
+      { text: "d) segmentare comportamentala", correct: false },
     ],
   },
   {
