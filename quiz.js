@@ -734,8 +734,8 @@ const questions = [
     answers: [
       { text: "a) cresterea profitului si a ratei profitului", correct: false },
       { text: "b) cresterea nivelului investitiilor", correct: false },
-      { text: "c) reducerea riscului", correct: true },
-      { text: "d) imagine favorabila in randul consumatorilor sau imaginea de marca sau firma", correct: false },
+      { text: "c) reducerea riscului", correct: false },
+      { text: "d) imagine favorabila in randul consumatorilor sau imaginea de marca sau firma", correct: true },
     ],
   },
   {
@@ -1522,12 +1522,12 @@ const questions = [
     ],
   },
   {
-    question: "Cel mai inalt drag de patrundere pe o piata straina, conform etapelor procesului de internationalizarea o reprezinta: (I 190)",
+    question: "Cel mai inalt grad de patrundere pe o piata straina, conform etapelor procesului de internationalizarea o reprezinta: (I 190)",
     answers: [
       { text: "a) exportul direct", correct: false },
       { text: "b) licentierea", correct: false },
-      { text: "c) investitia straina directa", correct: false },
-      { text: "d) exportul indirect", correct: true },
+      { text: "c) investitia straina directa", correct: true },
+      { text: "d) exportul indirect", correct: false },
     ],
   },
   {
@@ -2426,8 +2426,8 @@ const questions = [
     answers: [
       { text: "a) profitabilitatea organizatiei", correct: false },
       { text: "b) dependenta de nivelul productiei", correct: false },
-      { text: "c) promovari, recompense, penalizari", correct: false },
-      { text: "d) coordonarea activitatii organizatiei", correct: true },
+      { text: "c) promovari, recompense, penalizari", correct: true },
+      { text: "d) coordonarea activitatii organizatiei", correct: false },
     ],
   },
   {
@@ -2885,8 +2885,8 @@ const questions = [
     answers: [
       { text: "a) dimensiunea produsului", correct: false },
       { text: "b) regimul de temperatura", correct: false },
-      { text: "c) gradul de disponibilitate", correct: false },
-      { text: "d) valoarea bunurilor", correct: true },
+      { text: "c) gradul de disponibilitate", correct: true },
+      { text: "d) valoarea bunurilor", correct: false },
     ],
   },
   {
