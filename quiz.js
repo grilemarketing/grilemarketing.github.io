@@ -100,7 +100,7 @@ const questions = [
     ],
   },
   {
-    question: "12. Nevoile au drept caracteristica fundamentala: ",
+    question: "Nevoile au drept caracteristica fundamentala: (I 12)",
     answers: [
       { text: "a) caracterul dinamic", correct: false },
       { text: "b) pot fi regenerabile si neregenerabile", correct: false },
@@ -550,7 +550,7 @@ const questions = [
     ],
   },
   {
-    question: "In calitate de stiinta economica de sinteza, managementul pria diverse categorii economice si metode, de la urmatoarele discipline din domeniu: (I 62)",
+    question: "In calitate de stiinta economica de sinteza, managementul preia diverse categorii economice si metode, de la urmatoarele discipline din domeniu: (I 62)",
     answers: [
       { text: "a) economie", correct: true },
       { text: "b) fizica", correct: false },
@@ -4114,7 +4114,7 @@ const questions = [
     ],
   },
   {
-    question: "Atragerea atentiei publicului-tinta asupra caracteristicilor unui produs existent pe piata reprezinta un obiectiv al demersurilor comunicationale a cari realizare presupune interventii la nivel: (I 478)",
+    question: "Atragerea atentiei publicului-tinta asupra caracteristicilor unui produs existent pe piata reprezinta un obiectiv al demersurilor comunicationale a carei realizare presupune interventii la nivel: (I 478)",
     answers: [
       { text: "a) cognitiv", correct: true },
       { text: "b) afectiv", correct: false },
@@ -4776,7 +4776,7 @@ const questions = [
 const shuffledQuestions = questions.sort(() => Math.random() - 0.5);
 
 // Select only the first 2 questions (for testing purposes)
-const selectedQuestions = shuffledQuestions.slice(0, 100);
+const selectedQuestions = shuffledQuestions.slice(0, 45);
 
 // Get references to the HTML elements
 const questionsContainer = document.getElementById("questions");
