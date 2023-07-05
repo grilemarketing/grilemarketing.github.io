@@ -238,8 +238,8 @@ const questions = [
     question: "Care dintre urmatoarele afirmatii este falsa: (I 27)",
     answers: [
       { text: "a) rationalitatea economica presupune compararea efectelor cu eforturile astfel incat sa se maximizeze raportul efecte/eforturi", correct: false },
-      { text: "b) proprietatea mixta presupunea existenta proprietatii publice si private", correct: false },
-      { text: "c) proprietatea mixta presupunea existenta a doi proprietari", correct: true },
+      { text: "b) proprietatea mixta presupune existenta proprietatii publice si private", correct: false },
+      { text: "c) proprietatea mixta presupune existenta a doi proprietari", correct: true },
       { text: "d) piata reprezinta locul de intalnire al agentilor economici in economia de piata", correct: false },
     ],
   },
